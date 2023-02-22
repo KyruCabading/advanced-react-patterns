@@ -91,6 +91,7 @@ In this example, `usePrevious` wasn't necessary, as checking whether running an 
 - Dispatch is an optimized function. No need to pass as a dependency within hooks.
 
 ## Choosing the best API
+![IMG_3860](https://user-images.githubusercontent.com/31245853/220560754-1718f6f0-2508-4330-9104-55cd12fabe4b.jpg)
 
 # Useful Links
 
