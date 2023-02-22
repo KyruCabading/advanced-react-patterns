@@ -1,5 +1,3 @@
-![Advanced React Patterns Ultrasimplified](assets/hero@3x.png)
-
 # Personal Notes
 
 Writing personal notes here from the The Complete Guide to Advanced React Component Patterns course by Ohans Emmanuel.
